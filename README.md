@@ -2,6 +2,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/Agentic-ODL-Pattern/blob/main/notebooks/agentic_odl_demo.ipynb)
 
+https://colab.research.google.com/github/michaelford85/atlas-rag-pipeline/blob/main/atlas_rag_pipeline.ipynb
+
 ## 📌 Overview
 
 This repository provides a reference architecture for the **Operational Data Layer (ODL)**—the "connective tissue" between fragmented enterprise data and the reasoning capabilities of **Agentic AI**.
