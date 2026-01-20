@@ -1,8 +1,6 @@
 # 🌐 Agentic-ODL-Pattern: The Operational Data Layer for AI Agents
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/Agentic-ODL-Pattern/blob/main/notebooks/agentic_odl_demo.ipynb)
-
-https://colab.research.google.com/github/michaelford85/atlas-rag-pipeline/blob/main/atlas_rag_pipeline.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michaelford85/mongodb-agentic-odl-pattern/blob/main/notebooks/agentic_odl_demo.ipynb)
 
 ## 📌 Overview
 
